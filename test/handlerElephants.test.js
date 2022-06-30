@@ -1,5 +1,4 @@
 const handlerElephants = require('../src/handlerElephants');
-const getElephants = require('../src/handlerElephants');
 
 describe('6, 7 e 15- Implemente os testes da função handlerElephants para obter ao menos 80%, 90% e 100% de cobertura', () => {
   it('Verifica se caso não forneça parametro a função retorna indefinida', () => {
